@@ -1,0 +1,61 @@
+body {
+    background: url(images/background.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+.main {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: auto;
+    text-align: center;
+    width: 600px;
+    border-radius: 30px;
+    border: 2px solid purple;
+    padding-bottom: 15px
+    
+}
+
+.main2 {
+    background-color: purple;
+    padding: 60px 0px 60px 0px;
+    margin-top: 10px;
+    
+}
+
+hr {
+    width: 300px;
+}
+
+
+p {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+button {
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    padding: 5px 15px 5px 15px; 
+}
+
+.login {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: yellow;
+}
+
+img {
+    margin-top: 20px;
+    
+    
+}
+
+
+
